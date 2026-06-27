@@ -135,7 +135,7 @@ lib
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/student-grade-tracker.git
+git clone https://github.com/maria2021831011/Student-Grade-Tracker-App.git
 ```
 
 ### Navigate to the project
