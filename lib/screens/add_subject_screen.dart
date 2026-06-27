@@ -44,7 +44,7 @@ class AddSubjectScreen extends StatelessWidget {
 
               validator: (value){
 
-                if(value==null || value.isEmpty){
+                if(value==null || value.trim().isEmpty){
 
                   return "Enter Subject Name";
 
